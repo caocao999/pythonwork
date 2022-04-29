@@ -1,4 +1,4 @@
-v = input("Give a number,please!!") 
+v = int(input("Give a number,please!!")) 
 
-print(v)
+print(v*110)
 
